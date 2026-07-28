@@ -1,0 +1,54 @@
+***** Create a package "assignments" and execute the below Assignments ******
+
+create subpackage "day2"
+
+1) Write a Java program that prompts the user to enter their score (an integer between 0 and 100). The program should then print the corresponding grade based on the following criteria:
+A: 90-100
+B: 80-89
+C: 70-79
+D: 60-69
+F: 0-59
+Expected Output: If the user inputs "85", the program should output: "Your grade is B."
+
+2) Largest of Three Numbers
+
+Question: Write a Java program that asks the user to enter three integers. The program should then determine and print the largest of the three numbers.
+Expected Output: If the user inputs "12", "7", and "20", the program should output: "The largest number is 20."
+
+3) Triangle Type
+Question: Write a Java program that asks the user to enter the lengths of three sides of a triangle. The program should then determine whether the triangle is equilateral, isosceles, or scalene. An equilateral triangle has all three sides equal, an isosceles triangle has two sides equal, and a scalene triangle has all sides different.
+Expected Output: If the user inputs "5", "5", and "5", the program should output: "The triangle is equilateral." If the user inputs "5", "5", and "7", the program should output: "The triangle is isosceles." If the user inputs "3", "4", and "5", the program should output: "The triangle is scalene."
+
+4) Password Strength
+
+Question: Write a Java program that prompts the user to enter a password. The program should then determine the strength of the password based on the following criteria:
+Strong: At least 8 characters, contains both uppercase and lowercase letters, and includes at least one digit and one special character.
+Medium: At least 6 characters, contains both uppercase and lowercase letters, and includes at least one digit.
+Weak: Does not meet the above criteria.
+Expected Output: If the user inputs "P@ssw0rd", the program should output: "Password strength: Strong." If the user inputs "Pass123", the program should output: "Password strength: Medium." If the user inputs "pass", the program should output: "Password strength: Weak."
+Reverse a Number
+
+5) Question: Write a Java program that asks the user to enter an integer. The program should then reverse the digits of the number and print the reversed number.
+Expected Output: If the user inputs "1234", the program should output: "The reversed number is 4321."
+
+6. Prime Number Check
+
+Question: Write a Java program that prompts the user to enter an integer. The program should then determine whether the number is prime and print the result. A prime number is a number that is greater than 1 and has no positive divisors other than 1 and itself.
+Expected Output: If the user inputs "7", the program should output: "7 is a prime number." If the user inputs "10", the program should output: "10 is not a prime number."
+
+7.Sum of Digits
+
+Question: Write a Java program that asks the user to enter an integer. The program should then calculate and print the sum of the digits of the entered number.
+Expected Output: If the user inputs "1234", the program should output: "The sum of the digits is 10."
+
+8. Write a Java Program to get the following O/p.
+
+*
+* * *
+* * * * *
+* * * * * * *
+* * * * * * * * *
+* * * * * * *
+* * * * *
+* * *
+*

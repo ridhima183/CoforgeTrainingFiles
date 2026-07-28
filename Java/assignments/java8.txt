@@ -1,0 +1,73 @@
+******* Java 8 Practical Questions *********
+
+1)  Given a list of integers, find out all the even numbers exist in the 	list using Stream functions?
+
+2) Given a list of integers, find out all the numbers starting with 1 	using Stream functions?
+
+3) Given a list of integers, find the total number of elements present in the list using Stream functions?
+
+4) Given a list of integers, sort all the values present in it using Stream functions?
+
+5) Calculating Maximum, Minimum, Sum, and Average of List elements using stream
+
+
+6)Write the following methods that return a lambda expression performing a specified action:
+
+PerformOperation isOdd(): The lambda expression must return true if a number is odd or false if it is even.
+PerformOperation isPrime(): The lambda expression must return true if a number is prime or false if it is composite.
+PerformOperation isPalindrome(): The lambda expression must return true  if a number is a palindrome or false if it is not.
+
+
+7) Movie Rating System
+--------------------------------------------
+Question:
+Create a Movie class with:
+
+Movie Name
+Genre
+Rating
+
+Using Stream API:
+
+Display movies with ratings above 4.0.
+Sort movies by rating.
+Group movies by genre.
+Find the highest-rated movie.
+
+
+8) Method Reference with Collections
+
+Question:
+Create a list of city names.
+
+Perform the following:
+
+Display cities using Lambda Expression.
+Display cities using Method Reference.
+Sort cities alphabetically.
+Display cities in uppercase.
+
+9) Java 8 Date & Time API
+
+Question:
+Write a program to:
+
+Display today's date.
+Display the current month and day of the week.
+Calculate the number of days between two dates.
+Check whether the current year is a leap year.
+
+
+10) Functional Interface – String Operations
+------------------------------------------------------
+
+Question:
+Create a functional interface named StringOperation.
+
+Implement the following using Lambda Expressions:
+
+Convert to Uppercase
+Convert to Lowercase
+Reverse a String
+Find String Length
+

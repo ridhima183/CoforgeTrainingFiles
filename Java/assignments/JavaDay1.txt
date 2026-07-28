@@ -1,0 +1,18 @@
+***** Create a package "assignments" and execute the below Assignments ******
+create subpackage "day1"
+
+Day1:
+
+1. Write a program that declares two integer variables, swaps their values without using a third variable, and prints the result.
+
+2. Create a program that simulates a simple calculator using command-line arguments to perform and print the result of addition, subtraction, multiplication, and division..
+
+3. Write a Java program that asks the user to enter their birth year, then calculates and prints their current age. Assume the current year is 2024.
+         Expected Output: If the user inputs "1990", the program should output: "You are 34 years old."
+
+4 . Write a Java program that asks the user to enter their weight in kilograms and height in meters, then calculates and prints their Body Mass Index (BMI). Use the formula BMI = weight / (height * height).
+Expected Output: If the user inputs "70" for weight and "1.75" for height, the program should output: "Your BMI is 22.86."
+
+5.  Write a Program to check whether entered number is Prime Number or Not.
+
+6. Write a Java Program to check whether entered City is IT City or Not. Consider Delhi, Mumbai, Kolkatta, Bangalore, Chennai , Hyderabad as IT cities.

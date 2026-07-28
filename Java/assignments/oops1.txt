@@ -1,0 +1,24 @@
+***** Create a package "assignments" and execute the below Assignments ******
+
+create subpackage "oops"
+
+Note: Follow Naming conventions, Encapsulation, Abstraction to solve all problems
+
+1. Write a program by creating an Employee class having the following methods and print
+the final salary.
+	1 - getInfo(); which takes the salary, number of hours of work per day of employee as
+		parameter
+	2 - addSal(); which adds $10 to salary of the employee if it is less than $500.
+	3 - addWork(); which adds $5 to salary of employee if the number of hours of work per
+		day is more than 6 hours.
+
+2) Write a OOP  that would print the information (name, year of joining, salary, address)
+of three students by creating a class named Student. 
+The output should be as follows: Take input from user for the same.
+
+Name 	Year of joining Address
+Robert 	1994 		64C- WallsStreet
+Sam 	2000 		68D- WallsStreet
+John 	1999 		26B- WallsStreet
+
+3. Create a class named BankAccount that encapsulates the details of a bank account. Implement methods for deposit & withdraw money from bank.

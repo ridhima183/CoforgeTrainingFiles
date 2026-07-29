@@ -15,13 +15,13 @@
 
 ---
 
-## ✨ About This Repo
+## About This Repo
 
-> 🎯 A vibrant collection of **hands-on training files, exercises, and mini-projects** built during a full-stack Java development training program at **Coforge**. From front-end basics to enterprise backend frameworks — it's all here!
+> A collection of hands-on training files, exercises, and mini-projects built during a full-stack Java development training program at **Coforge** — from front-end fundamentals to enterprise backend frameworks.
 
 <br/>
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -38,22 +38,22 @@
 
 <br/>
 
-## 🗂️ What's Inside
+## What's Inside
 
-| 📁 Folder | 🔍 Focus Area | 🎨 Highlights |
+| Folder | Focus Area | Highlights |
 |:---|:---|:---|
-| 🌐 **HTML5-CSS3** | Front-end fundamentals | Semantic markup, responsive layouts, styling basics |
-| ☕ **Java** | Core Java concepts | OOP, collections, exception handling, syntax drills |
-| 🟨 **JavaScript** | Client-side scripting | DOM manipulation, events, ES6+ features |
-| 🛢️ **MySQL** | Relational databases | Queries, joins, schema design |
-| 🧩 **Hibernate** | ORM mapping | Entity mapping, sessions, HQL |
-| ⚙️ **Servlets-JSP** | Java web basics | Request/response lifecycle, JSP tags, session handling |
-| 🍃 **Spring Framework** | Dependency injection | Beans, IoC container, AOP basics |
-| 🚀 **Spring Boot** | Rapid backend dev | REST APIs, auto-configuration, embedded servers |
+| **HTML5-CSS3** | Front-end fundamentals | Semantic markup, responsive layouts, styling basics |
+| **Java** | Core Java concepts | OOP, collections, exception handling, syntax drills |
+| **JavaScript** | Client-side scripting | DOM manipulation, events, ES6+ features |
+| **MySQL** | Relational databases | Queries, joins, schema design |
+| **Hibernate** | ORM mapping | Entity mapping, sessions, HQL |
+| **Servlets-JSP** | Java web basics | Request/response lifecycle, JSP tags, session handling |
+| **Spring Framework** | Dependency injection | Beans, IoC container, AOP basics |
+| **Spring Boot** | Rapid backend dev | REST APIs, auto-configuration, embedded servers |
 
 <br/>
 
-## 🚦 How to Use
+## How to Use
 
 ```bash
 # clone the repo
@@ -62,36 +62,28 @@ git clone https://github.com/ridhima183/CoforgeTrainingFiles.git
 # move into a topic folder of choice
 cd CoforgeTrainingFiles/"Spring Boot"
 
-# explore, run, and tinker away 🔧
+# explore, run, and tinker away
 ```
 
 <br/>
 
-## 🌈 Why This Repo Exists
+## Why This Repo Exists
 
 <div align="center">
 
 ```
-📚 Learn  →  💻 Practice  →  🐞 Debug  →  🚀 Ship  →  🔁 Repeat
+Learn  →  Practice  →  Debug  →  Ship  →  Repeat
 ```
 
 </div>
 
-This repository documents a structured journey through **enterprise Java development** — built one training module at a time, with an emphasis on writing clean, working code across the full stack.
-
-<br/>
-
-## 📈 Repo Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ridhima183&repo=CoforgeTrainingFiles&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF6EC7&icon_color=FFD93D&text_color=00E5FF" />
-</div>
+This repository documents a structured journey through enterprise Java development — built one training module at a time, with an emphasis on writing clean, working code across the full stack.
 
 <br/>
 
 <div align="center">
 
-### 💌 Connect
+### Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ridhima183)
 
